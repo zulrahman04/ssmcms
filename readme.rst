@@ -1,4 +1,10 @@
 ###################
+FYI
+###################
+project ini dalah project web company profile, dengan cms yang belum selesai dibuat
+
+
+###################
 What is CodeIgniter
 ###################
 
